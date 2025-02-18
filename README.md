@@ -15,4 +15,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/Maulvi
+[linkedin]: https://linkedin.com/in/
