@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Maulvi Kallon, an <a href="https://linkedin.com/in/Josh">IT Professional</a> 😊 </h1>
+🔹 Email: maulvikallon89@gmail.com   
 
-
+ 
 🔹 Aspiring SOC Analyst | CompTIA Security+ Certified  
 🔹 Hands-on labs in **SIEM, Windows Event Logs, Phishing Analysis, Wireshark, and Ticketing Systems**  
 🔹 Strong IT support foundation with experience in troubleshooting, Active Directory, and help desk workflows  
+
 
 ## 🚀 What You'll Find Here
 - **SOC 1 Labs Repo** → TryHackMe SOC Level 1 Path projects (Windows Event Logs, Splunk SIEM, Phishing, Wireshark) -  [SOC-1-Labs](https://github.com/maulvikallon/SOC-1-Labs)
@@ -103,4 +105,4 @@ This repository demonstrates:
 
 
 
-📧 Contact: maulvikallon89@gmail.com
+📧 Contact: maulvikallon89@gmail.com | 📍 Fort Worth, TX 
