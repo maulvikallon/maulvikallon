@@ -31,7 +31,7 @@
 
 
 This repository highlights my hands-on cybersecurity labs from the **TryHackMe SOC Level 1 Path** and supporting projects.  
-Each lab demonstrates real-world SOC workflows such as log analysis, SIEM monitoring, and phishing triage, etc.
+Each lab demonstrates real-world SOC workflows such as log analysis, SIEM monitoring, and phishing triage, etc. 👉 [View Full Profile on TryHackMe](https://tryhackme.com/p/maulvikallon)
 
 ---
 
