@@ -101,4 +101,4 @@ This repository demonstrates:
 
 
 
-[linkedin]: https://linkedin.com/in/
+Contact: maulvikallon89@gmail.com
