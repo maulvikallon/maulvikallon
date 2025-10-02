@@ -7,7 +7,7 @@
 
 ## 🚀 What You'll Find Here
 - **SOC 1 Labs Repo** → TryHackMe SOC Level 1 Path projects (Windows Event Logs, Splunk SIEM, Phishing, Wireshark)  
-- **IT Support Labs Repo** → Google IT Support & CourseCareers projects (Micrsoft Azure - Active Directory, osTicket)  
+- **IT Support Labs Repo** → Google IT Support & CourseCareers projects (Microsoft Azure - Active Directory, osTicket)  
 
 ## 🔗 Profiles
 - [LinkedIn](https://linkedin.com/in/maulvi-kallon-016392281)  
@@ -101,4 +101,4 @@ This repository demonstrates:
 
 
 
-Contact: maulvikallon89@gmail.com
+📧 Contact: maulvikallon89@gmail.com
