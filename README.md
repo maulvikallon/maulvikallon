@@ -6,8 +6,10 @@
 🔹 Strong IT support foundation with experience in troubleshooting, Active Directory, and help desk workflows  
 
 ## 🚀 What You'll Find Here
-- **SOC 1 Labs Repo** → TryHackMe SOC Level 1 Path projects (Windows Event Logs, Splunk SIEM, Phishing, Wireshark)  
-- **IT Support Labs Repo** → Google IT Support & CourseCareers projects (Microsoft Azure - Active Directory, osTicket)  
+- **SOC 1 Labs Repo** → TryHackMe SOC Level 1 Path projects (Windows Event Logs, Splunk SIEM, Phishing, Wireshark) -  [SOC-1-Labs](https://github.com/maulvikallon/SOC-1-Labs)
+- **IT Support Labs Repo** → Google IT Support & CourseCareers projects (Microsoft Azure - Active Directory, osTicket) - [osticket-prereqs](https://github.com/maulvikallon/osticket-prereqs) • [post-install-config](https://github.com/maulvikallon/post-install-config) • [ticket-lifecycle](https://github.com/maulvikallon/ticket-lifecycle) • [configure-ad](https://github.com/maulvikallon/configure-ad) • [azure-network-protocols](https://github.com/maulvikallon/azure-network-protocols)
+
+
 
 ## 🔗 Profiles
 - [LinkedIn](https://linkedin.com/in/maulvi-kallon-016392281)  
